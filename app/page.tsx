@@ -217,7 +217,7 @@ export default function Home() {
             Let me know!
           </p>
           <a
-            href="mailto:contact@tweetsui.com"
+            href="mailto:a_zine@estin.dz"
             className="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg font-medium hover:bg-gray-100 transition shadow-lg text-lg"
           >
             Contact Me
